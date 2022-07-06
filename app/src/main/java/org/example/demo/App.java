@@ -10,6 +10,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        SystemLogger.println( "Hello World!" );
+        SystemLogger.println( "Hello, World!" );
     }
 }
